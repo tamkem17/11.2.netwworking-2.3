@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">11.2.netwworking-2.3</string>
+    <string name="url">http://apps.coreservlets.com/NetworkingSupport/loan-calculator</string>
+    <string name="info">Caculation Information</string>
+</resources>
